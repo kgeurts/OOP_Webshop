@@ -1,0 +1,38 @@
+[
+  {
+    "code": 1,
+    "title": "Bullit",
+    "image_url": "https://static-images.jumbo.com/product_images/110320192238_500047BLK-1_720x720.png",
+    "price": 0.75,
+    "description": "Bullit Sugarfree geeft je de energie die je nodig hebt, maar dan zonder suiker"
+  },
+  {
+    "code": 2,
+    "title": "7 Energy Drink",
+    "image_url": "https://static-images.jumbo.com/product_images/160820192203_293799BLK-1_360x360.png",
+    "price": 0.50,
+    "description": "Vitamine B12 draagt bij tot een normaal energieleverend metabolisme."
+  },
+  {
+    "code": 3,
+    "title": "Monster Energy Drink",
+    "image_url": "https://www.totalwine.com/dynamic/490x/media/sys_master/twmmedia/h08/h6e/8799660605470.png",
+    "price": 1.00,
+    "description": "Tear into a can of the meanest energy drink on the planet, Monster Energy. It`s the ideal combo of the right ingredients in the right proportion to deliver the big bad buzz that only Monster can"
+  },
+  {
+    "code": 4,
+    "title": "5 Hour Energy Berry",
+    "image_url": "https://i5.walmartimages.com/asr/9b8934f0-a225-4725-be32-9f22d6a87c65_2.217d68a1ccf8436ea97d9849bdae10d9.png",
+    "price": 2.50,
+    "description": "The key ingredients in 5-hour ENERGY® are also available in every day foods – like broccoli, avocados, bananas and apples – or already in you"
+  },
+  {
+    "code": 5,
+    "title": "Red Bull",
+    "image_url": "https://www.biertaxi-oss.nl/wp-content/uploads/2017/03/red-bull-energy-drink-blikje-nl-closed.png",
+    "price": 2.50,
+    "description": "Red bull geeft je vleugels!"
+  }
+
+]
